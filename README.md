@@ -55,7 +55,9 @@ pip install -r requirements.txt
 
 ### 4. Download Large Files
 Due to file size constraints, the yolov3.weights and pywrap_tensorflow_internal.pyd files are not included in this repository. Download them from the links provided below and place them in the appropriate directories.
-link to google Drive : https://drive.google.com/drive/folders/1lLr1VU-Gp1zZF1r1MeVme0xoUxBXfqMe
+links to google Drive : 
+for yolov3.weights : https://drive.google.com/file/d/1NhoR-ByhakCSlDjzNCZfl28Omg0yb04L/view?usp=drive_link
+for pywrap_tensorflow_internal.pyd : https://drive.google.com/file/d/1IzU8RLIfstXIB3vFloi0TsEGagx1HMyO/view?usp=drive_link
 yolov3.weights - Place in yolo/ directory.
 pywrap_tensorflow_internal.pyd - Place in venv/Lib/site-packages/tensorflow/python/ directory.
 
