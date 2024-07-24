@@ -43,17 +43,17 @@ Linux/MacOS:
 python3 -m venv venv
 source venv/bin/activate
 
-3. Install Dependencies
+### 3. Install Dependencies
 Install the required packages:
 
 pip install -r requirements.txt
 
-4. Download Large Files
+### 4. Download Large Files
 Due to file size constraints, the yolov3.weights and pywrap_tensorflow_internal.pyd files are not included in this repository. Download them from the links provided below and place them in the appropriate directories.
 link to google Drive : https://drive.google.com/drive/folders/1lLr1VU-Gp1zZF1r1MeVme0xoUxBXfqMe
 yolov3.weights - Place in yolo/ directory.
 pywrap_tensorflow_internal.pyd - Place in venv/Lib/site-packages/tensorflow/python/ directory.
 
-5. Run the Project
+### 5. Run the Project
 Once everything is set up, you can run the project:
 python main.py
