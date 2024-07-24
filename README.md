@@ -34,10 +34,12 @@ cd CodeClause-ObjectDetectionSystem
 
 ### 2. Setup the Virtual Environment
 Create and activate a virtual environment:
+
 Windows:
 
 python -m venv venv
 venv\Scripts\activate
+
 Linux/MacOS:
 
 python3 -m venv venv
