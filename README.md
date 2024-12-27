@@ -1,6 +1,6 @@
 # Object Detection System
 
-This project is part of the internship at CodeClause, where the objective is to develop an object detection system using YOLOv3.
+In this project i have designed a object detection system using YOLOV3 Model.
 
 ## Project Structure
 
